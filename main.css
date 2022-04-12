@@ -1,3 +1,67 @@
 body {
-  background-color: indianred;
+  background-color: rgb(17, 23, 44);
+  color: rgb(200, 198, 252);
+}
+
+article {
+  margin-top: 2em;
+  padding: 0em 1em 1em 1em;
+}
+
+h1 {
+  color: mediumslateblue;
+}
+
+h2 {
+  color: rgb(89, 182, 191);
+}
+
+#hendersonville {
+  font-family: 'Courier New', Courier, monospace;
+  border: 0.1em solid mediumslateblue;
+}
+
+#corecivic {
+  font-family: 'Times New Roman', Times, serif;
+  border: 0.1em dashed mediumslateblue;
+}
+
+#tutor {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 0.5em double mediumslateblue;
+}
+
+#starbucks {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 0.5em dotted mediumslateblue;
+}
+
+#intern {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 0.1em solid mediumslateblue;
+}
+
+#teaching-assistant {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 0.1em dashed mediumslateblue;
+}
+
+#cotton-gin {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 0.5em double mediumslateblue;
+}
+
+#allianz {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 0.7em dotted mediumslateblue;
+}
+
+#best-buy {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 0.4em solid mediumslateblue;
+}
+
+#live-sound {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 0.4em dashed mediumslateblue;
 }
